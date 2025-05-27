@@ -25,7 +25,8 @@ The simplicity and clarity of this tool make it an excellent educational project
 
 In an era where data integrity is critical—whether for secure software distribution, digital forensics, or regulatory compliance—file integrity checkers play a central role. They help ensure that files are exactly what they claim to be, free from tampering, and safe to use. This Python-based file integrity checker is a foundational example of how simple scripts can provide robust security capabilities in real-world applications.
 
-
+![Image](https://github.com/user-attachments/assets/d9af8e2d-7fe6-4bb9-8bee-f47aa23b9f1c)    
+![Image](https://github.com/user-attachments/assets/66a8786d-c733-4216-9023-a3047faae1e9)
 
 
 
