@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Check Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 Integrity Check Result</h1>
+        <p><strong>File:</strong> {{ filename }}</p>
+        <p><strong>Current Hash:</strong> {{ current_hash }}</p>
+        <p><strong>Status:</strong> {{ status }}</p>
+        <a href="{{ url_for('index') }}">🔙 Check Another File</a>
+    </div>
+</body>
+</html>
